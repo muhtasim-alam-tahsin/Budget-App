@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Stack from 'react-bootstrap/Stack';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import BudgetCard from './Component/budgetCard'
+import BudgetCard from './Component/BudgetCard'
 import AddBudgetCard from './Component/AddBudgetCard';
 import { useState } from 'react';
 import { useBudget } from './Component/BudgetCalculation';
